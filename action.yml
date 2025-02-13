@@ -1,6 +1,6 @@
-name: 'Apple code signing'
+name: 'Apple code signing (modified, for PCSX2 use)'
 description: 'Signs and notarizes Apple software using open source software'
-author: 'Gregory Szorc'
+author: 'Fobes/PCSX2. Modified from Gregory Szorc'
 
 inputs:
   # This is the only required input.
